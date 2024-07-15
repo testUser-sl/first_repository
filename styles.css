@@ -1,0 +1,20 @@
+.flex-box {
+    width: 100%;
+    height: auto;
+    background-color: #14428c;
+    padding: 3px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px 0;
+}
+
+.child {
+    background-color: #2566cf;
+    color: #fff;
+    padding: 10px 5px;
+    font-size: 30px;
+    text-align: center;
+    width: 30%;
+}
